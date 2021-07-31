@@ -3,7 +3,7 @@ U of O Analytics Bootcamp Module 3
 
 # Overview of Election Audit
 ### Purpose of election audit analysis well defined
-The purpose of this analysis was to provide a geographic breakdown by county of the election results, turnout, and proportioned activity within each applicable county. In this particular election, there was information available from 3 different counties: 
+The purpose of this analysis was to provide a geographic breakdown by county of the election results, turnout, and proportioned activity within each applicable county. In this particular election, there was information available from 3 different counties: Denver, Arapahoe, and Jefferson
 
 
 # Election Audit Results
